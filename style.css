@@ -1,0 +1,18 @@
+#heading{
+ text-align:center;   
+ background-color:aqua;
+ padding:4px;
+}
+#b1{
+    float:right;
+    margin-bottom:100px;
+}
+body{
+    text-align: center;
+}
+#l3{
+    float:left;
+}
+#l4{
+    float:right;
+}
